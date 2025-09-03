@@ -96,8 +96,8 @@ pip o conda para gestión de paquetes
 ### Instalación
 ```bash
 # Clonar el repositorio
-git clone https://github.com/[tu-usuario]/bankruptcy-prediction.git
-cd bankruptcy-prediction
+Se debe descargar el repositorio y la carpeta debe subirse a Google Drive. Si la carpeta esta subida a "My Drive", se podrá correr cada notebook.
+El código pide acceso a OneDrive.
 
 # Ejecutar notebooks
 jupyter lab
