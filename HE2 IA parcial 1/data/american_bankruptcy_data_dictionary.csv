@@ -1,0 +1,19 @@
+original_variable,new_name,description
+X1,current_assets,Current assets - Assets expected to be sold or used in the next year.
+X10,total_assets,Total assets - All items of value a business owns.
+X11,total_long_term_debt,Total long-term debt - Liabilities not due within one year.
+X12,ebit,EBIT - Earnings before interest and taxes.
+X13,gross_profit,Gross profit - Profit after subtracting manufacturing/selling costs.
+X14,total_current_liabilities,"Total current liabilities - Short-term obligations due within a year (e.g., AP, accrued taxes)."
+X15,retained_earnings,"Retained earnings - Profits left after costs, taxes, and dividends."
+X16,total_revenue,Total revenue - Income from all sales before expenses; may include interest/dividends.
+X17,total_liabilities,Total liabilities - Combined debts and obligations to outside parties.
+X18,total_operating_expenses,Total operating expenses - Expenses from normal business operations.
+X2,cost_of_goods_sold,Cost of goods sold - Direct costs related to the sale of products.
+X3,depreciation_amortization,Depreciation & amortization - Loss of value of tangible/intangible assets over time.
+X4,ebitda,"EBITDA - Earnings before interest, taxes, depreciation, and amortization."
+X5,inventory,Inventory - Items and raw materials used in production or for sale.
+X6,net_income,Net income - Profit after all expenses and costs are deducted from total revenue.
+X7,total_receivables,Total receivables - Money due for delivered goods/services not yet paid by customers.
+X8,market_value,Market value (market capitalization) - Value in the stock market for public companies.
+X9,net_sales,"Net sales - Gross sales minus returns, allowances, and discounts."
