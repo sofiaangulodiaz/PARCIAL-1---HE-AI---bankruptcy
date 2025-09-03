@@ -5,13 +5,13 @@
 
 ## 👤 Autores
 
-Sofía Villamizar
-Sofía Angulo
-Gabriela Zamora
-Gilberto Galeana
-Nicolas Rich
-Juan Sebatian Sierra
-Samuel Suárez
+- Sofía Villamizar
+- Sofía Angulo
+- Gabriela Zamora
+- Gilberto Galeana
+- Nicolas Rich
+- Juan Sebatian Sierra
+- Samuel Suárez
 
 ---
 
