@@ -100,7 +100,7 @@ Se debe descargar el repositorio y la carpeta debe subirse a Google Drive. Si la
 El código pide acceso a OneDrive.
 
 # Ejecutar notebooks
-jupyter lab
+Desde OneDrive.
 ```
 
 ---
