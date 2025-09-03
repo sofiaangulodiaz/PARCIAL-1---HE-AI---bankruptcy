@@ -3,6 +3,18 @@
 
 ---
 
+## 👤 Autores
+
+Sofía Villamizar
+Sofía Angulo
+Gabriela Zamora
+Gilberto Galeana
+Nicolas Rich
+Juan Sebatian Sierra
+Samuel Suárez
+
+---
+
 ## 🎯 Descripción del Proyecto
 
 Este proyecto desarrolla y compara modelos de machine learning para **predecir la probabilidad de bancarrota empresarial** utilizando indicadores financieros y contables. A través del análisis de datos históricos de empresas cotizadas en la Bolsa de Nueva York, buscamos identificar patrones que permitan anticipar situaciones de insolvencia financiera.
